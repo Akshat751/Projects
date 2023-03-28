@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+    background: rgb(24, 24, 24);
+}
+body{
+    overflow-x: hidden;
+}
+.container
+{
+    color: aliceblue;
+   text-align: center;
+   padding-top: 10rem;
+
+}
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+    /* mix-blend-mode: exclusion; */
+}
+section {
+    height : 100vh
+
+}
